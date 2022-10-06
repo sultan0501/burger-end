@@ -1,0 +1,198 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+
+
+.navbar-brand {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    padding: 1px 18px;
+    background-color: #06600fcf;
+
+}
+.nav-item {
+  padding-left: 10px;
+}
+
+.nav-item:hover {
+    background: rgba(105, 207, 23, 0.75);
+} 
+
+.nav-link {
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "raleway";
+    line-height: 21px;
+}
+.section__text {
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 84px;
+    color: #69CF17;
+    
+}
+.section__word {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 17px;
+    color: #69CF17;
+    padding: 18px 0;
+    
+}
+.section__word1 {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: white;
+  
+ }
+.btn {
+    padding: 33px 76px;
+   background: rgba(105, 207, 23, 0.5);
+   color: white;
+   font-size: 50px;
+   font-weight: 100;
+   margin-top: 30px;
+}
+.btn1 {
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+ padding: 15px 71px;
+ background: #69CF17;
+ margin-top: 56px;
+}
+
+
+.header {
+    width: 100%;
+    height: 100vh;
+
+}
+
+.header__img {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: -1;
+   
+}
+.section__part {
+    position: absolute;
+  margin-top: 150px;
+}
+
+.container {
+    width: 1109px;
+}
+.nav {
+    width: 100%;
+    height: 65px;
+    background: #292929;
+  display: flex;
+  align-items: center;
+
+  
+}
+.main {
+    width: 100%;
+    height: 1780px;
+  
+}
+.section__part2 {
+    width: 100%;
+    height: 48px;
+    background: black;
+}
+
+
+.card {
+margin-right: 12px;
+ border: 1px solid rgba(255, 255, 255, 0.528);
+}
+.card__span {
+ 
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.product {
+    width: 100%;
+    height: 1151px;
+    background: #393636;
+  
+}
+
+.section__card1 {
+    margin-top: 15px;
+}
+   
+.product__burger {
+    margin-top: 15px;
+   
+}
+
+.section__part2 {
+    width: 100%;
+    height: 50px;
+    background: black;
+    margin-top: 15px;
+}
+.alert__span {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 40px;
+    color: #69CF17;
+  
+}
+
+
+.section__alert {
+    width: 100%;
+    height: 80px;
+   
+}
+.section__card {
+    width: 100%;
+    height: 500px;
+}
+
+.footer {
+    width: 100%;
+    height: 280px;
+    background: #08370d;
+    position: absolute;
+}
+
+
+
+
+
+.footer__span {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 1px 18px;
+   background: #06600f;
+   color: white;
+   border-radius: 4px;
+
+ 
+}
+.footer__section {
+   margin-top: 30px;
+}
+.footer__nav {
+
+    margin-top: 81px;
+}
+
+  
+
