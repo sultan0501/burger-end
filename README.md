@@ -2,3 +2,4 @@
 site
 end
 deyarli oddiy sayt
+juda zor
